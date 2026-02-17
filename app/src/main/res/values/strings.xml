@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bodhran Tuner</string>
+    <string name="tone_reading">--</string>
+    <string name="frequency_label">Frequency:</string>
+    <string name="frequency_value">-- Hz</string>
+    <string name="reference_label">Reference:</string>
+    <string name="reference_value">Not Set</string>
+    <string name="set_reference_button">Set Reference Tone</string>
+    <string name="listening">Listening…</string>
+    <string name="not_listening">Not Listening</string>
+    <string name="permission_required">Microphone permission is required</string>
+    <string name="permission_denied">Permission denied. Cannot record audio.</string>
+    <string name="scale_label">Tone Scale (1-20)</string>
+</resources>
